@@ -88,12 +88,12 @@
             <div
               class="text-2xl font-bold bg-transparent overflow-auto whitespace-nowrap"
             >
-              {{ this.home }}
+              {{ home }}
             </div>
             <div
               class="text-2xl font-bold bg-transparent overflow-auto whitespace-nowrap"
             >
-              {{ this.guest }}
+              {{ guest }}
             </div>
           </div>
 
@@ -140,14 +140,14 @@
             <button
               class="btn btn-primary btn-lg btn-circle"
               @click="addScore(1)"
-              :disabled="this.finish_game"
+              :disabled="finish_game"
             >
               <PlusIcon class="h-5 w-5" />
             </button>
             <button
               class="btn btn-primary btn-lg btn-circle"
               @click="addScore(2)"
-              :disabled="this.finish_game"
+              :disabled="finish_game"
             >
               <PlusIcon class="h-5 w-5" />
             </button>
@@ -157,14 +157,14 @@
             <button
               class="btn btn-primary btn-lg btn-circle"
               @click="minusScore(1)"
-              :disabled="this.finish_game"
+              :disabled="finish_game"
             >
               <MinusIcon class="h-5 w-5" />
             </button>
             <button
               class="btn btn-primary btn-lg btn-circle"
               @click="minusScore(2)"
-              :disabled="this.finish_game"
+              :disabled="finish_game"
             >
               <MinusIcon class="h-5 w-5" />
             </button>
