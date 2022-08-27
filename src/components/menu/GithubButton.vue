@@ -7,7 +7,7 @@
       <a
         aria-label="Github"
         target="_blank"
-        href="https://github.com/saadeghi/daisyui"
+        href="https://github.com/ikramsyakir/stpc"
         rel="noopener"
         class="btn btn-ghost drawer-button btn-square normal-case"
       >
