@@ -1,0 +1,19 @@
+{
+  "change_language": "Change Language",
+  "change_theme": "Change Theme",
+  "enter_team_name": "Enter team name",
+  "first_serve": "First serve",
+  "loser": "Loser",
+  "random": "Random",
+  "start_game": "Start Game",
+  "start_new_game": "Start new game",
+  "theme": "Theme",
+  "this_field_is_required": "This field is required",
+  "time": "Time",
+  "total_score": "Total score",
+  "vs": "VS",
+  "which_team_will_start_the_serve": "Which team will start the serve?",
+  "will_start_first_serve": "will start first serve",
+  "win": "win!",
+  "winner": "Winner"
+}
