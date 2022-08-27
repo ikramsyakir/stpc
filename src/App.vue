@@ -1,8 +1,6 @@
 <template>
   <MenuBar />
-  <main>
-    <ScoreBoard />
-  </main>
+  <ScoreBoard />
   <FooterBar />
 </template>
 
