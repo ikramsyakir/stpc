@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://stpc.me"><strong>Web App</strong></a>
+  <a href="https://stpc.me" target="_blank"><strong>Web App</strong></a>
 </p>
 
 # STPC
