@@ -4,7 +4,7 @@
       <p>
         Made with ❤️ by
         <a
-          href="https://ikramsyakir.github.io"
+          href="https://ikramsyakir.com"
           class="link link-hover"
           target="_blank"
           >Ikram Syakir
